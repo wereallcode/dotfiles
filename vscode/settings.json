@@ -1,0 +1,35 @@
+{
+  // UI & Theme
+  "window.autoDetectColorScheme": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+
+  // Editor & Terminal
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.6,
+  "terminal.integrated.fontSize": 16,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.mouseWheelZoom": true,
+
+  // Formatting & Code Layout
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  // Behavior & File Management
+  "workbench.editor.enablePreview": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "search.useGlobalIgnoreFiles": true,
+  "search.useParentIgnoreFiles": true,
+  "chat.disableAIFeatures": true,
+  "extensions.ignoreRecommendations": true,
+  "workbench.externalBrowser": "brave",
+  "workbench.activityBar.location": "top",
+  "workbench.preferredLightColorTheme": "Dark 2026",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+}
+}

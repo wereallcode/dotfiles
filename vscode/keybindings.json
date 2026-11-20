@@ -1,0 +1,52 @@
+[
+  {
+    "key": "cmd+1",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 0
+  },
+  {
+    "key": "cmd+2",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 1
+  },
+  {
+    "key": "cmd+3",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 2
+  },
+  {
+    "key": "cmd+4",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 3
+  },
+  {
+    "key": "cmd+5",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 4
+  },
+  {
+    "key": "cmd+6",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 5
+  },
+  {
+    "key": "cmd+7",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 6
+  },
+  {
+    "key": "cmd+8",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 7
+  },
+  {
+    "key": "cmd+9",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 8
+  },
+  {
+    "key": "cmd+0",
+    "command": "workbench.action.openEditorAtIndex",
+    "args": 9
+  }
+]

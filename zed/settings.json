@@ -1,0 +1,24 @@
+{
+  "cli_default_open_behavior": "existing_window",
+  "mouse_wheel_zoom": true,
+  "theme": {
+    "mode": "dark",
+    "light": "Catppuccin Latte",
+    "dark": "Catppuccin Mocha"
+  },
+  "icon_theme": {
+    "mode": "dark",
+    "light": "Material Icon Theme",
+    "dark": "Material Icon Theme"
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "project_panel": {
+    "dock": "left"
+  },
+  "markdown_preview": {
+    "open_markdown_files_in_preview": true,
+    "max_width": 1000.0,
+    "font_size": 16.0
+  }
+}
