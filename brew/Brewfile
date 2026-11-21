@@ -1,0 +1,26 @@
+# Run your GitHub Actions locally
+brew "act"
+# GitHub command-line tool
+brew "gh"
+# Render markdown on the CLI
+brew "glow"
+# Ambitious Vim-fork focused on extensibility and agility
+brew "neovim"
+# AI coding agent, built for the terminal
+brew "opencode"
+# Extremely fast Python package installer and resolver, written in Rust
+brew "uv"
+# Free app that makes your Internet safer
+cask "cloudflare-warp"
+# App to build and share containerised applications and microservices
+cask "docker-desktop"
+# Terminal emulator that uses platform-native UI and GPU acceleration
+cask "ghostty"
+# Desktop client for GitHub repositories
+cask "github"
+# Web browser
+cask "google-chrome"
+# Knowledge base that works on top of a local folder of plain text Markdown files
+cask "obsidian"
+# Multiplayer code editor
+cask "zed"
